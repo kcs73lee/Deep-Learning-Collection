@@ -7,15 +7,11 @@ Kaggle link: https://www.kaggle.com/search?q=histopathologic+cancer+detection
 ## Natural Language Processing with Disaster Tweets
 Kaggle link: https://www.kaggle.com/c/nlp-getting-started
 
-## Generative deep learning models
+## Generative Deep Learning Models
 
-1. I’m Something of a Painter Myself
+I’m Something of a Painter Myself
 Use GANs to create art - will you be the next Monet?
 Kaggle link: https://www.kaggle.com/competitions/gan-getting-started
-
-3. Generative Dog Images
-Experiment with creating puppy pics
-Kaggle link: https://www.kaggle.com/c/generative-dog-images
 
 ## Predicting and Estimating Crop Yields with Deep Learning
 Kaggle Link: https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset/data
