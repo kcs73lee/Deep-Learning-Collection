@@ -17,4 +17,6 @@ Kaggle link: https://www.kaggle.com/competitions/gan-getting-started
 Experiment with creating puppy pics
 Kaggle link: https://www.kaggle.com/c/generative-dog-images
 
+## Predicting and Estimating Crop Yields with Deep Learning
+Kaggle Link: https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset/data
 
