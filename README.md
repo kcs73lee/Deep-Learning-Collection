@@ -7,7 +7,7 @@ Kaggle link: https://www.kaggle.com/search?q=histopathologic+cancer+detection
 ## Natural Language Processing with Disaster Tweets
 Kaggle link: https://www.kaggle.com/c/nlp-getting-started
 
-## Generative Deep Learning Models
+## Generative Adversial Networks
 
 I’m Something of a Painter Myself
 Use GANs to create art - will you be the next Monet?
