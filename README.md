@@ -1,5 +1,5 @@
-# Deep Learning
-This repo contains the projects and notebooks from the Intro to Deep Learning class from the University of California Boulder
+# Deep Learning Projects
+This repo contains the projects and notebooks from the Intro to Deep Learning class from the University of Colorado, Boulder
 
 ## Histopathologic Cancer Detection
 Kaggle link: https://www.kaggle.com/search?q=histopathologic+cancer+detection
